@@ -1,0 +1,1 @@
+Remove-ADGroup -Identity Group_Name 
